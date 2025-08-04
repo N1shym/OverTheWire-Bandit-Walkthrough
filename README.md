@@ -1,4 +1,4 @@
-# Over The wire
+# Over The wire - Bandit
 
 Writeups for each level of the Bandit wargame from OverTheWire.  
 Each level requires connecting to a remote server and solving Linux command-line challenges.
